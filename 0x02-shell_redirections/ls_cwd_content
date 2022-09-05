@@ -12,5 +12,5 @@ drwxr-xr-x 6 root root   121 Sep  5 10:19 ..
 -rwxr--r-- 1 root root    74 Sep  5 13:08 7-file
 -rwxr--r-- 1 root root    36 Sep  5 13:13 8-cwd_state
 -rw-r--r-- 1 root root    12 Sep  5 13:08 \\\'"Best School"\'\\$\?\\\\\*:)
--rw-r--r-- 1 root root     0 Sep  5 13:13 ls_cwd_content
+-rw-r--r-- 1 root root     0 Sep  5 13:14 ls_cwd_content
 -rw-r--r-- 1 root root    27 Sep  5 06:39 README.md
